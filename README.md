@@ -30,3 +30,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 这里可能需要注意的就是：
 引入 Toast 组件后，会自动在 Vue 的 prototype 上挂载 $toast 方法，便于在组件内调用。
 并且记录小白人生第一次调用接口成功
+参考axios
+https://www.kancloud.cn/yunye/axios/234845
